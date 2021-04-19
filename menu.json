@@ -2,7 +2,7 @@
     "menuItems": [
         {
             "title": "agro",
-            "url": "http://g1.globo.com/economia/agronegocios/"
+            "url": "https://g1.globo.com/economia/agronegocios/"
         },
         {
             "title": "bem estar",
@@ -10,19 +10,19 @@
         },
         {
             "title": "carros",
-            "url": "http://g1.globo.com/carros/"
+            "url": "https://g1.globo.com/carros/"
         },
         {
             "title": "ciência e saúde",
-            "url": "http://g1.globo.com/ciencia-e-saude/"
+            "url": "https://g1.globo.com/ciencia-e-saude/"
         },
         {
             "title": "economia",
-            "url": "http://g1.globo.com/economia/"
+            "url": "https://g1.globo.com/economia/"
         },
         {
             "title": "educação",
-            "url": "http://g1.globo.com/educacao/"
+            "url": "https://g1.globo.com/educacao/"
         },
         {
             "title": "fato ou fake",
